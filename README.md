@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jayeshpandey754@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Msc3xLKZyJsjHrT798xrL0rOFXsXiUEV/view?usp=drive_link](https://drive.google.com/file/d/1Msc3xLKZyJsjHrT798xrL0rOFXsXiUEV/view?usp=drive_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1Msc3xLKZyJsjHrT798xrL0rOFXsXiUEV/view?usp=drive_link)
 
 - ⚡ Fun fact **When I'm not coding, I'm indulging my artistic side! I love creating hyper-realistic drawings. Check out my latest works on Instagram**
 
