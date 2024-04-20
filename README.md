@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayeshpandey01" alt="jayeshpandey01" /></a> </p>
 
-- 🔭 I’m currently working on [Voice assistant](https://github.com/jayeshpandey01/voice-assistant)
+- 🔭 I’m currently working on [Voice-assistant](https://github.com/jayeshpandey01/voice-assistant)
 
 - 🌱 I’m currently learning **Artificial Intelligent**
 
