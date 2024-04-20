@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Artificial Intelligent**
 
-- 👨‍💻 All of my projects are available at [https://portfoliojayesh.netlify.app/](https://portfoliojayesh.netlify.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://portfoliojayesh.netlify.app/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/pandey-jayesh/](https://mickeybytes.blogspot.com/)
+- 📝 I regularly write articles on [Blog](https://mickeybytes.blogspot.com/)
 
 - 📫 How to reach me **jayeshpandey754@gmail.com**
 
