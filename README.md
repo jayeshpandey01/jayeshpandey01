@@ -6,7 +6,23 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayeshpandey01&theme=dracula&title=MultiLanguage,Commits,Repositories,Stars" alt="jayeshpandey01 trophies"/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jayeshpandey01&theme=dracula&title=MultiLanguage,Commits,Repositories,Stars" alt="trophies"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jayeshpandey01&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/jayeshpandey01">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayeshpandey01&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-score-api.vercel.app/api?username=jayeshpandey01&theme=tokyonight" alt="iScore Badge" />
 </p>
 
 ---
@@ -33,13 +49,6 @@
 
 ---
 
-### 🌐 Portfolio & Resume
-
-- 📄 [My Portfolio](https://portfoliojayesh.netlify.app/)  
-- 📜 [View My Resume](https://drive.google.com/file/d/1s4iw6c-KxBa2K6-IKueaSMTCv36Vlm7z/view)
-
----
-
 ### ☕ Support My Work
 
 <p align="left">
@@ -53,7 +62,6 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <!-- Only top 15 most relevant tech tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
@@ -67,8 +75,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
 </p>
 
 ---
@@ -80,15 +86,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshpandey01&layout=compact&theme=dracula" height="180" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshpandey01&theme=dracula" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 🎨 Fun Fact
 
 > When I'm not coding or analyzing data, I'm drawing hyper-realistic portraits. Coding meets creativity 🧠🖌️
-
----
-
