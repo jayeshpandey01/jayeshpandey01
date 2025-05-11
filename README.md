@@ -21,10 +21,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-score-api.vercel.app/api?username=jayeshpandey01&theme=tokyonight" alt="iScore Badge" />
-</p>
-
 ---
 
 ### 🔭 Currently Working On
@@ -36,6 +32,30 @@
 - 💬 [Voice Assistant](https://github.com/jayeshpandey01/voice-assistant) – Hindi/English voice automation  
 
 ---
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+|--------|-------------|------------|-------|
+| **🤖 AI Voice Assistant** | A multilingual voice-controlled assistant for web scraping, automation, and system control. | Python, pyttsx3, speechrecognition, BeautifulSoup, gTTS | [GitHub](https://github.com/jayeshpandey01/voice-assistant) |
+| **🧠 Tumor Detection using MonoAI** | Detects tumors from medical scans using CNN models and AI preprocessing. | Python, TensorFlow, OpenCV, Deep Learning | *Add Link* |
+| **🌌 Lunar Crater Detection** | Detects and labels craters from satellite data (LRO, Chandrayaan). Used in ISRO/NASA hackathons. | Python, CNN, FPN, Satellite Datasets | [GitHub](https://github.com/jayeshpandey01/MOON) |
+| **🧪 Quantum Detective** | A fraud detection system using quantum gates and classical ML fusion. | Python, Qiskit, Scikit-learn | *Add Link* |
+| **🌐 AI-Powered Social Media Friend** | Real-time interaction with AI avatar using voice, video, and NLP features. | React, Node.js, Flask, OpenAI, Hugging Face | *Add Link* |
+| **📈 Stack Overflow Survey Analysis** | Data visualizations and insights from 2023 Stack Overflow developer survey. | Pandas, Seaborn, Matplotlib | [Post](https://www.linkedin.com/posts/pandey-jayesh_dataanalysis-python-numpy-activity-7205986243480879106-RWr-/?utm_source=share&utm_medium=member_desktop) |
+| **🦠 Covid-19 Italy Data Analysis** | Trend visualization of COVID-19 in Italy with plots, stats, and predictions. | Python, Pandas, Seaborn | [Post](https://www.linkedin.com/posts/pandey-jayesh_datascience-python-pandas-activity-7204573520100536321-H2sw/?utm_source=share&utm_medium=member_desktop) |
+| **💬 AI ChatBot** | Intelligent bot using transformers and Flask for dynamic conversations. | Python, Flask, OpenAI, Torch | [GitHub](https://github.com/jayeshpandey01/ChatBot-main) |
+| **📚 Btechnotes** | Academic note-sharing platform used by 100k+ B.Tech students. | Webflow, Firebase, Notion | [Website](https://msha.ke/btechnotes) |
+| **🎮 Game Projects (Unreal)** | Developed multiple games in Unreal Engine and Core Game platform. | Unreal Engine, Lua, Blueprints | [Core Game](https://www.coregames.com/games/1ef8c6/dungeon-crawler) |
+| **📊 Online Appointment Booking System** | Full-stack PHP system with role-based access for patients/doctors/admins. | PHP, MySQL, Bootstrap, JS | *Add Link* |
+| **🧮 Currency Converter App** | React-based currency converter with live API integration and animated UI. | ReactJS, REST API | *Add Link* |
+| **🛍️ Pharmacy Management System** | Inventory, sales, and records management system for pharmacies. | PHP, MySQL, HTML/CSS | *Add Link* |
+| **📅 College Event Management** | Tracks achievements, events, student-faculty info with chatbot support. | ReactJS, MongoDB | *Add Link* |
+
+---
+
 
 ### 📫 Let's Connect
 
