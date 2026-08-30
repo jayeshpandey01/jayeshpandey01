@@ -1,0 +1,342 @@
+{
+  "username": "jayeshpandey01",
+  "widgets": [
+    {
+      "widgetId": "header",
+      "name": "Header Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 90
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1788123124745_0"
+    },
+    {
+      "instanceId": "widget_1788123301572_0",
+      "widgetId": "premium-ascii-profile-card",
+      "name": "Premium-ascii-profile-card Widget (Cópia)",
+      "position": {
+        "x": 336,
+        "y": 90
+      },
+      "size": {
+        "width": 456,
+        "height": 456
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "transparentBackground": true,
+        "backgroundColor": "transparent",
+        "accentColor": "#3fb950",
+        "secondaryColor": "#39c5cf",
+        "borderColor": "#30363d"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 13
+    },
+    {
+      "instanceId": "widget_1788123445382",
+      "widgetId": "premium-ascii-dev-score",
+      "name": "Premium-ascii-dev-score Widget",
+      "position": {
+        "x": 0,
+        "y": 832
+      },
+      "size": {
+        "width": 400,
+        "height": 250
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "transparentBackground": true,
+        "backgroundColor": "transparent",
+        "accentColor": "#3fb950",
+        "secondaryColor": "#39c5cf",
+        "borderColor": "#30363d"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1788123615914",
+      "widgetId": "premium-ascii-insights",
+      "name": "Premium-ascii-insights Widget",
+      "position": {
+        "x": 400,
+        "y": 817
+      },
+      "size": {
+        "width": 400,
+        "height": 280
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "transparentBackground": true,
+        "backgroundColor": "transparent",
+        "accentColor": "#3fb950",
+        "secondaryColor": "#39c5cf",
+        "borderColor": "#30363d"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1788123654981",
+      "widgetId": "asciiprofile-heatmap",
+      "name": "Asciiprofile-heatmap Widget",
+      "position": {
+        "x": 0,
+        "y": 1098
+      },
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "config": {
+        "accentColor": "#ffa657"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1788123879867",
+      "widgetId": "controlplane-patchbay",
+      "name": "Controlplane-patchbay Widget",
+      "position": {
+        "x": 0,
+        "y": 1339
+      },
+      "size": {
+        "width": 800,
+        "height": 330
+      },
+      "config": {
+        "layoutType": "hero",
+        "accentColor": "#00A7D1"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 14
+    },
+    {
+      "instanceId": "widget_1788123945596_0",
+      "widgetId": "gitfut-card",
+      "name": "Gitfut-card Widget (Cópia)",
+      "position": {
+        "x": 28,
+        "y": 108
+      },
+      "size": {
+        "width": 300,
+        "height": 420
+      },
+      "config": {
+        "transparentBackground": true,
+        "hideBorder": true,
+        "hideDecorations": true,
+        "showTitle": false,
+        "enableHolo": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 14
+    },
+    {
+      "instanceId": "widget_1788124042838",
+      "widgetId": "ascii-text",
+      "name": "Ascii-text Widget",
+      "position": {
+        "x": 0,
+        "y": 1624
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "customText": "Retrato",
+        "asciiFont": "block",
+        "charSpacing": 1,
+        "fontSize": 12,
+        "charset": "default",
+        "customCharset": "",
+        "asciiLines": [
+          "███████▄ ████████ ████████ ███████▄  ▄████▄  ████████  ▄████▄ ",
+          "██    ██ ██          ██    ██    ██ ██    ██    ██    ██    ██",
+          "███████▀ ██████      ██    ███████▀ ████████    ██    ██    ██",
+          "██  ▀██▄ ██          ██    ██  ▀██▄ ██    ██    ██    ██    ██",
+          "██    ██ ████████    ██    ██    ██ ██    ██    ██     ▀████▀ "
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 13
+    },
+    {
+      "instanceId": "widget_1788124417027",
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 0,
+        "y": 1760
+      },
+      "size": {
+        "width": 800,
+        "height": 140
+      },
+      "config": {
+        "selectedTechs": [
+          "py",
+          "js",
+          "ts",
+          "html",
+          "cpp",
+          "go",
+          "sass",
+          "java",
+          "css",
+          "react",
+          "reactnative",
+          "fastapi",
+          "flask",
+          "postgres",
+          "firebase",
+          "neo4j",
+          "docker",
+          "vercel",
+          "notion",
+          "vscode"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 12
+    },
+    {
+      "instanceId": "widget_1788124490386",
+      "widgetId": "stats",
+      "name": "Stats Widget",
+      "position": {
+        "x": 0,
+        "y": 708
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 11
+    },
+    {
+      "instanceId": "widget_1788124572186",
+      "widgetId": "social-media",
+      "name": "Social-media Widget",
+      "position": {
+        "x": 0,
+        "y": 1916
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "selectedSocials": [
+          "github",
+          "linkedin",
+          "twitter",
+          "instagram",
+          "website"
+        ],
+        "socialUrls": {
+          "github": "https://github.com/jayeshpandey01",
+          "instagram": "https://www.instagram.com/pandey_jayesh_",
+          "website": "https://msha.ke/btechnotes",
+          "twitter": "https://twitter.com/pandey_jayesh_",
+          "linkedin": "https://linkedin.com/in/pandey-jayesh"
+        }
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 12
+    },
+    {
+      "instanceId": "widget_1788124646275",
+      "widgetId": "godprofile-terminal",
+      "name": "Godprofile-terminal Widget",
+      "position": {
+        "x": 0,
+        "y": 2052
+      },
+      "size": {
+        "width": 450,
+        "height": 300
+      },
+      "config": {
+        "accentColor": "#b6a891"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 13
+    },
+    {
+      "instanceId": "widget_1788124711702",
+      "widgetId": "codeweb-minimal-badge",
+      "name": "Codeweb-minimal-badge Widget",
+      "position": {
+        "x": 0,
+        "y": 2368
+      },
+      "size": {
+        "width": 800,
+        "height": 44
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 14
+    },
+    {
+      "instanceId": "widget_1788124790210",
+      "widgetId": "languages",
+      "name": "Languages Widget",
+      "position": {
+        "x": 0,
+        "y": 528
+      },
+      "size": {
+        "width": 800,
+        "height": 160
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 15
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "native"
+  },
+  "templateId": "terminal",
+  "profileSlug": "default"
+}
