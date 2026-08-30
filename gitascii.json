@@ -1,5 +1,4 @@
 {
-  "username": "jayeshpandey01",
   "widgets": [
     {
       "widgetId": "header",
@@ -208,11 +207,14 @@
           "css",
           "react",
           "reactnative",
+          "nextjs",
           "fastapi",
           "flask",
           "postgres",
           "firebase",
           "neo4j",
+          "prisma",
+          "pytorch",
           "docker",
           "vercel",
           "notion",
@@ -256,6 +258,7 @@
         "selectedSocials": [
           "github",
           "linkedin",
+          "kaggle",
           "twitter",
           "instagram",
           "website"
@@ -265,7 +268,8 @@
           "instagram": "https://www.instagram.com/pandey_jayesh_",
           "website": "https://msha.ke/btechnotes",
           "twitter": "https://twitter.com/pandey_jayesh_",
-          "linkedin": "https://linkedin.com/in/pandey-jayesh"
+          "linkedin": "https://linkedin.com/in/pandey-jayesh",
+          "kaggle": "https://kaggle.com/mickey2004"
         }
       },
       "locked": false,
@@ -337,6 +341,5 @@
     "themeMode": "dark",
     "templateStyle": "native"
   },
-  "templateId": "terminal",
-  "profileSlug": "default"
+  "templateId": "terminal"
 }
