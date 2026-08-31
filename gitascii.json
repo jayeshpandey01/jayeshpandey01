@@ -28,38 +28,6 @@
       "zIndex": 1
     },
     {
-      "instanceId": "widget_1788159384747",
-      "widgetId": "premium-ascii-profile-card",
-      "name": "Premium-ascii-profile-card Widget",
-      "position": {
-        "x": 280,
-        "y": 0
-      },
-      "size": {
-        "width": 520,
-        "height": 440
-      },
-      "config": {
-        "lockAspectRatio": true,
-        "transparentBackground": true,
-        "backgroundColor": "transparent",
-        "accentColor": "#3fb950",
-        "secondaryColor": "#39c5cf",
-        "borderColor": "#30363d",
-        "hideBorder": false,
-        "hideDecorations": false,
-        "customWebsite": "https://portfoliojayesh.netlify.app/",
-        "customLocation": "Mumbai, India",
-        "customName": "Jayesh Pandey",
-        "customRoles": "Machine Learning Engineer ",
-        "maxRepos": 4,
-        "selectedRepos": []
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 2
-    },
-    {
       "instanceId": "widget_1788159980746",
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
