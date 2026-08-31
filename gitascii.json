@@ -103,7 +103,7 @@
       "widgetId": "asciiprofile-heatmap",
       "name": "Asciiprofile-heatmap Widget",
       "position": {
-        "x": 0,
+        "x": 10,
         "y": 612
       },
       "size": {
@@ -118,46 +118,12 @@
       "zIndex": 4
     },
     {
-      "instanceId": "widget_1788160231298",
-      "widgetId": "views-counter",
-      "name": "Views-counter Widget",
-      "position": {
-        "x": 0,
-        "y": 868
-      },
-      "size": {
-        "width": 200,
-        "height": 96
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 5
-    },
-    {
-      "instanceId": "widget_1788160260306",
-      "widgetId": "awesome-badge",
-      "name": "Awesome-badge Widget",
-      "position": {
-        "x": 210,
-        "y": 876
-      },
-      "size": {
-        "width": 360,
-        "height": 80
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 6
-    },
-    {
       "instanceId": "widget_1788160307552",
       "widgetId": "social-media",
       "name": "Social-media Widget",
       "position": {
         "x": 0,
-        "y": 980
+        "y": 1096
       },
       "size": {
         "width": 800,
@@ -178,6 +144,71 @@
       "locked": false,
       "visible": true,
       "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1788160457989",
+      "widgetId": "premium-ascii-coding-velocity",
+      "name": "Premium-ascii-coding-velocity Widget",
+      "position": {
+        "x": 400,
+        "y": 842
+      },
+      "size": {
+        "width": 400,
+        "height": 160
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "transparentBackground": true,
+        "backgroundColor": "transparent",
+        "accentColor": "#3fb950",
+        "secondaryColor": "#39c5cf",
+        "borderColor": "#30363d"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1788160559895",
+      "widgetId": "premium-ascii-dna",
+      "name": "Premium-ascii-dna Widget",
+      "position": {
+        "x": 0,
+        "y": 842
+      },
+      "size": {
+        "width": 400,
+        "height": 230
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "transparentBackground": true,
+        "backgroundColor": "transparent",
+        "accentColor": "#3fb950",
+        "secondaryColor": "#39c5cf",
+        "borderColor": "#30363d"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1788160695904",
+      "widgetId": "views-counter",
+      "name": "Views-counter Widget",
+      "position": {
+        "x": 440,
+        "y": 1000
+      },
+      "size": {
+        "width": 200,
+        "height": 96
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
     }
   ],
   "globalStyles": {
