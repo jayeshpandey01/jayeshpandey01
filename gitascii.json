@@ -2,84 +2,182 @@
   "username": "jayeshpandey01",
   "widgets": [
     {
-      "widgetId": "surveillance-header",
-      "name": "Surveillance-header Widget",
+      "instanceId": "widget_1788159354556",
+      "widgetId": "gitfut-card",
+      "name": "Gitfut-card Widget",
       "position": {
-        "x": 10,
+        "x": 0,
         "y": 0
       },
       "size": {
-        "width": 780,
-        "height": 417
-      },
-      "config": {
-        "accentColor": "#55ffff",
-        "customTitle": "Surveillance Header"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 1,
-      "instanceId": "widget_1788125596393_0"
-    },
-    {
-      "widgetId": "surveillance-telemetry",
-      "name": "Surveillance-telemetry Widget",
-      "position": {
-        "x": 10,
-        "y": 417
-      },
-      "size": {
-        "width": 780,
+        "width": 300,
         "height": 420
       },
       "config": {
-        "accentColor": "#55ffff",
-        "customTitle": "Terminal Telemetry"
+        "transparentBackground": true,
+        "hideBorder": true,
+        "hideDecorations": true,
+        "showTitle": false,
+        "enableHolo": true,
+        "lockAspectRatio": false,
+        "animationType": "slide-down",
+        "animationPreviewKey": 10
       },
       "locked": false,
       "visible": true,
-      "zIndex": 2,
-      "instanceId": "widget_1788125596394_1"
+      "zIndex": 1
     },
     {
-      "widgetId": "surveillance-feeds",
-      "name": "Surveillance-feeds Widget",
+      "instanceId": "widget_1788159384747",
+      "widgetId": "premium-ascii-profile-card",
+      "name": "Premium-ascii-profile-card Widget",
       "position": {
-        "x": 10,
-        "y": 845
+        "x": 280,
+        "y": 0
+      },
+      "size": {
+        "width": 520,
+        "height": 440
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "transparentBackground": true,
+        "backgroundColor": "transparent",
+        "accentColor": "#3fb950",
+        "secondaryColor": "#39c5cf",
+        "borderColor": "#30363d",
+        "hideBorder": false,
+        "hideDecorations": false,
+        "customWebsite": "https://portfoliojayesh.netlify.app/",
+        "customLocation": "Mumbai, India",
+        "customName": "Jayesh Pandey",
+        "customRoles": "Machine Learning Engineer ",
+        "maxRepos": 4,
+        "selectedRepos": []
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2
+    },
+    {
+      "instanceId": "widget_1788159980746",
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 0,
+        "y": 456
+      },
+      "size": {
+        "width": 800,
+        "height": 140
+      },
+      "config": {
+        "selectedTechs": [
+          "py",
+          "js",
+          "html",
+          "css",
+          "ts",
+          "cpp",
+          "docker",
+          "bash",
+          "sass",
+          "go",
+          "java",
+          "solidity",
+          "c",
+          "php",
+          "dart",
+          "swift",
+          "kotlin",
+          "reactnative",
+          "vscode"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3
+    },
+    {
+      "instanceId": "widget_1788160101444",
+      "widgetId": "asciiprofile-heatmap",
+      "name": "Asciiprofile-heatmap Widget",
+      "position": {
+        "x": 0,
+        "y": 612
       },
       "size": {
         "width": 780,
-        "height": 190
+        "height": 240
       },
       "config": {
-        "accentColor": "#55ffff",
-        "customTitle": "Surveillance Social Feeds"
+        "accentColor": "#ffa657"
       },
       "locked": false,
       "visible": true,
-      "zIndex": 3,
-      "instanceId": "widget_1788125596394_2"
+      "zIndex": 4
     },
     {
-      "widgetId": "surveillance-loadout",
-      "name": "Surveillance-loadout Widget",
+      "instanceId": "widget_1788160231298",
+      "widgetId": "views-counter",
+      "name": "Views-counter Widget",
       "position": {
-        "x": 10,
-        "y": 1051
+        "x": 0,
+        "y": 868
       },
       "size": {
-        "width": 780,
-        "height": 200
+        "width": 200,
+        "height": 96
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    },
+    {
+      "instanceId": "widget_1788160260306",
+      "widgetId": "awesome-badge",
+      "name": "Awesome-badge Widget",
+      "position": {
+        "x": 210,
+        "y": 876
+      },
+      "size": {
+        "width": 360,
+        "height": 80
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1788160307552",
+      "widgetId": "social-media",
+      "name": "Social-media Widget",
+      "position": {
+        "x": 0,
+        "y": 980
+      },
+      "size": {
+        "width": 800,
+        "height": 120
       },
       "config": {
-        "accentColor": "#55ffff",
-        "customTitle": "Daily Loadout"
+        "selectedSocials": [
+          "github",
+          "instagram",
+          "website"
+        ],
+        "socialUrls": {
+          "github": "https://github.com/jayeshpandey01",
+          "instagram": "https://www.instagram.com/pandey_jayesh_",
+          "website": "https://msha.ke/btechnotes"
+        }
       },
       "locked": false,
       "visible": true,
-      "zIndex": 4,
-      "instanceId": "widget_1788125596394_3"
+      "zIndex": 7
     }
   ],
   "globalStyles": {
