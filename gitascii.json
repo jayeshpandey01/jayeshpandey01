@@ -99,25 +99,6 @@
       "zIndex": 3
     },
     {
-      "instanceId": "widget_1788160101444",
-      "widgetId": "asciiprofile-heatmap",
-      "name": "Asciiprofile-heatmap Widget",
-      "position": {
-        "x": 10,
-        "y": 612
-      },
-      "size": {
-        "width": 780,
-        "height": 240
-      },
-      "config": {
-        "accentColor": "#ffa657"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 4
-    },
-    {
       "instanceId": "widget_1788160457989",
       "widgetId": "premium-ascii-coding-velocity",
       "name": "Premium-ascii-coding-velocity Widget",
