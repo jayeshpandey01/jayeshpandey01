@@ -14,16 +14,6 @@
   </a>
 </p>
 
-> ℹ️ **Why the badges went blank, and what changed:** as of today, some of the original public instances behind these badges are actually down, not just rate-limited:
-> - `github-readme-stats.vercel.app` — the deployment itself is currently **paused** (multiple users reporting this in the last few days).
-> - `github-readme-streak-stats.herokuapp.com` — Heroku's free tier (which this depended on) was discontinued back in 2022, so this URL has been dead for a while regardless of today's outage.
->
-> **Fixes applied above:**
-> - Trophy section replaced with a GitFut card (`gitfut.com/jayeshpandey01.png`) per your request — a live GitHub-stats-as-player-card image that re-generates itself as your stats change.
-> - Streak stats now points to the current official host, `streak-stats.demolab.com` (replaces the dead Heroku URL).
-> - Stats/top-languages below now point to `github-readme-stats-fast.vercel.app`, an actively maintained fork with the same parameters and a short 60s cache, since the original is paused.
->
-> These are still third-party free services, so any of them can go down again. If that happens, hard-refresh first (browsers/GitHub cache broken images). For a permanent fix that isn't dependent on anyone else's uptime, self-host the stats/streak cards: fork the repo, deploy your own free Vercel instance with your own GitHub token, and swap the domain in these URLs.
 
 ---
 
