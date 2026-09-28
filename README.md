@@ -245,18 +245,6 @@ flowchart TB
 
 ---
 
-### Support My Work
-
-If you find my projects useful, you can support my open-source work through Buy Me a Coffee.
-
-<p align="left">
-  <a href="https://www.buymeacoffee.com/jayeshpandey" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="162" alt="Buy me a coffee" />
-  </a>
-</p>
-
----
-
 ### Skills and Tools
 
 <p align="center">
